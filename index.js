@@ -5,4 +5,3 @@ function getUKTime(Date) {
   return 
 }
  
-getUKTime()
