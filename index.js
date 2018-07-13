@@ -2,4 +2,4 @@
 function getUKTime() {
   new Date().getHours() + 8
 }
-
+getUKTime()
