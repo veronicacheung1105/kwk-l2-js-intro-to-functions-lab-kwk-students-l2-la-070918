@@ -5,7 +5,6 @@ function getUKTime() {
   return time
 }
  
- function discountTicket(discount){
-   var discount * 0.8;
-   return discount
- }
+ function discountTicket(input) {
+  return input * 0.8;
+}
