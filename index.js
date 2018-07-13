@@ -2,5 +2,6 @@
 
 function getUKTime() {
   var time = new Date().getHours() + 8 
+  return time
 }
  
