@@ -6,5 +6,5 @@ function getUKTime() {
 }
  
  function discountTicket(){
-   var 
+   var price = 
  }
