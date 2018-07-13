@@ -2,6 +2,6 @@
 
 function getUKTime(Date) {
   new Date().getHours() + 5
-  return 
+  return getUKTime
 }
  
